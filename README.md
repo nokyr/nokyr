@@ -3,7 +3,7 @@
 <span>Back-End Developer</span>
 <br>
 <img width="25px" src="python.png">
-<img width="35px" src="java.png">
+<img width="22.7px" src="java.jpg">
 <br>
 <br>
 <span>Hacking Student</span>
