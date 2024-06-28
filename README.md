@@ -5,7 +5,7 @@
 <img width="25px" src="python.png">
 <br>
 <br>
-<span>Hacking Student</span>
+<span>Pentester</span>
 <br>
 <img width="25px" src="hacking.png">
 <br>
