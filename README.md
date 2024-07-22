@@ -14,4 +14,5 @@
 <br>
 <img width="25px" src="linux.png">
 
+<img width="300px" src="nokyr.png">
 </div>
