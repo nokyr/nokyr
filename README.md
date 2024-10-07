@@ -16,7 +16,7 @@
 <br>
 <span>Ativista de Software Livre</span>
 <br>
-<img width="25px" src="ativismo.jpg">
+<img width="25px" src="ativismo.png">
 <br>
 <img width="300px" src="nokyr.png">
 
