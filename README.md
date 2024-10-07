@@ -6,7 +6,7 @@
 <br>
 <span>Ativista de Software Livre</span>
 <br>
-<img width="25px" src="ativismo.png">
+<img width="25px" src="ativismo.jpg">
 <br>
 <br>
 <span>GNU/Linux</span>
